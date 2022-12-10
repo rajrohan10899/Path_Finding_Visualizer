@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+**Deployed Project**
+https://rohan-raj-pathfindingvisualizer.netlify.app/
 
 ## Available Scripts
 
